@@ -2,6 +2,8 @@
 
 ### For practice purposes, i used the official data from the argentinian government (September 2021).
 
+![image](https://user-images.githubusercontent.com/79015330/134080268-007d0df1-3ca2-481d-942b-65f2e7001eeb.png)
+
 ---
 
 #### I used Python as language, Dash and Plotly for the graphs.
